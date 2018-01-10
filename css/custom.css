@@ -1,0 +1,15 @@
+.reveal table {
+	font-size: 0.8em;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    text-transform: none;
+}
+
+.reveal img {
+    max-width: 700px;
+}
+
+.reveal h1 {
+	font-size: 3em;
+}
