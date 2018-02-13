@@ -57,7 +57,10 @@
             <h2>What is migration</h2>
           </section>
           <section>
-            <h3>"migration" is the process that seeks to take data from some source external to the current Drupal 8 site and use it to automatically create nodes, users, configuration, and any other component of your site.</h3>
+            <ul>
+              <li>"migration" is the process that seeks to take data from some source external to the current Drupal 8 site</li>
+              <li>use it to automatically create nodes, users, configuration, and any other component of your site.</li>
+            </ul>
           </section>
           <section>
             <h3>In short, automating the tedious job of copying and pasting.</h3>
@@ -88,8 +91,7 @@
             </ul>
           </section>
           <section>
-            <h3>Apart from this if you need to extract data from your data source you can write a custom 
-source plugin.</h3>
+            <h3>Apart from this if you need to extract data from your data source you can write a custom source plugin.</h3>
           </section>
         </section>
         <section>
